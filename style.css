@@ -54,7 +54,7 @@ body{
   height: 50px;
   margin: 15px;
   float: left;
-  border-radius: 2px 15px 2px 15px;
+  border-radius: 2px;
   border: none;
   margin-bottom: 10px;
   font-weight: 700;
